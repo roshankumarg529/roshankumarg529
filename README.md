@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Data Scientist** with **5 years of industry experience** in Statistics, Machine Learning, and AI, currently pursuing my Master's in **Data Analytics at the University of Turku, Finland**.
+I'm a **Data Scientist** with **5 years of industry experience @ John Deere**, having experience in Statistics, Machine Learning, and AI, and currently pursuing my Master's in **Data Analytics at the University of Turku, Finland**.
 
 My work sits at the intersection of **statistical modeling, machine learning, and modern AI systems**. I enjoy taking ideas from research and turning them into practical, working solutions.
 
@@ -29,7 +29,7 @@ My work sits at the intersection of **statistical modeling, machine learning, an
 
 **Languages & Data**
 
-`Python` · `R` · `SQL` · `Java`
+`Python` · `R` · `SQL` · `Pyspark`
 
 **Machine Learning**
 
@@ -37,22 +37,12 @@ My work sits at the intersection of **statistical modeling, machine learning, an
 
 **AI & NLP**
 
-`LLMs` · `RAG` · `LangChain` · `LangGraph` · `Hugging Face`
+`LLMs` · `RAG` · `LangChain` · `LangGraph` · `Hugging Face` · ` SpatialAI`
 
 **Data & Infrastructure**
 
-`Pandas` · `NumPy` · `PySpark` · `MLflow` · `FAISS` · `Qdrant` · `Neo4j`
+`Pandas` · `NumPy` · `PySpark` · `MLflow` · `Databricks` · `Qdrant` · `Neo4j`
 
-### 🚀 What You'll Find Here
-
-This GitHub is where I document my journey through:
-
-- 📚 Research paper implementations
-- 🧠 Machine Learning experiments
-- 🤖 LLM & Generative AI projects
-- 🕸️ Knowledge Graph applications
-- 📈 Statistical modeling
-- 🔬 Research-oriented projects
 
 ---
 
