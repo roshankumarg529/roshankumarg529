@@ -52,6 +52,9 @@ My work sits at the intersection of **statistical modeling, machine learning, an
 
 ---
 
+### Portfolio
+https://portfolio-tau-opal-46.vercel.app/
+
 <p align="center">
   <i>Building. Experimenting. Learning.</i>
 </p>
