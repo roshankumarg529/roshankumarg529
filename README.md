@@ -16,6 +16,13 @@ I'm a **Data Scientist** with **5 years of industry experience @ John Deere**, h
 
 My work sits at the intersection of **statistical modeling, machine learning, and modern AI systems**. I enjoy taking ideas from research and turning them into practical, working solutions.
 
+### 👨‍💻 Education 
+
+- Master's degree in AI and Data Analytics (Ongoing)
+- Master's degree in Applied Statistics
+- Bachelor's degree in CS
+
+
 ### 🔬 Current Focus
 
 -  **NLP & Large Language Models**
