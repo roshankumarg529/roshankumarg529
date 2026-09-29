@@ -37,12 +37,11 @@ My work sits at the intersection of **statistical modeling, machine learning, an
 
 **AI & NLP**
 
-`LLMs` · `RAG` · `LangChain` · `LangGraph` · `Hugging Face` · ` SpatialAI`
+`LLMs` · `RAG` · `LangChain` · `LangGraph` · `Hugging Face` · ` SpatialAI`. ` LLM Inference`. ` Physical AI` . ` VLM` . ` GPU optimization`
 
 **Data & Infrastructure**
 
-`Pandas` · `NumPy` · `PySpark` · `MLflow` · `Databricks` · `Qdrant` · `Neo4j`
-
+`Pandas` · `NumPy` · `PySpark` · `MLflow` · `Databricks` · `Qdrant` · `Neo4j` , `AWS`. ` Docker` . ` Kubernetes`. ` PowerBI`
 
 ---
 
