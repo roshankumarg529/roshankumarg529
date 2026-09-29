@@ -18,12 +18,12 @@ My work sits at the intersection of **statistical modeling, machine learning, an
 
 ### 🔬 Current Focus
 
-- 🧠 **NLP & Large Language Models**
-- 🤖 **Generative AI & RAG Systems**
-- 🕸️ **Knowledge Graphs**
-- 📊 **Machine Learning & Statistical Modeling**
-- 🌍 **Multilingual AI & AI Research**
-- 🧪 Reproducing and experimenting with **research papers**
+-  **NLP & Large Language Models**
+-  **Generative AI & RAG Systems**
+-  **Knowledge Graphs**
+-  **Machine Learning & Statistical Modeling**
+-  **Multilingual AI & AI Research**
+-  Reproducing and experimenting with **research papers**
 
 ### 🛠️ Tech Stack
 
