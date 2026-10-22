@@ -53,10 +53,8 @@ My work sits at the intersection of **statistical modeling, machine learning, an
 ---
 
 ### Portfolio
-https://portfolio-tau-opal-46.vercel.app/
-
-Our solution that landed in the top 3 at  Junction x Turku Hackathon 2026
-https://github.com/roshankumarg529/startupgo
+1. https://portfolio-tau-opal-46.vercel.app/
+2. Our solution that landed in the top 3 at  Junction x Turku Hackathon 2026 - https://github.com/roshankumarg529/startupgo
 
 <p align="center">
   <i>Building. Experimenting. Learning.</i>
