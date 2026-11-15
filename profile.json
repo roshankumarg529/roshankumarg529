@@ -1,0 +1,61 @@
+{
+  "user": "roshankumarg529",
+  "name": "Roshan Kumar",
+  "tagline": "Data Scientist · ML Engineer · LLM inference, RAG and statistical modeling",
+  "subline": "5 years at John Deere · MSc AI & Data Analytics, University of Turku, Finland",
+  "cards": [
+    {
+      "file": "hackathons",
+      "title": "Hackathons",
+      "accent": "#bf8700",
+      "rows": [
+        ["Startup Go", "Deal intelligence for VCs in ocean and deep-tech startups", "Top 3"],
+        ["Junction x Turku 2026", "FastAPI · React · scraping and LLM agent pipeline", ""],
+        ["ML competitions", "Analytics Vidhya · MachineHack · DPhi · Dockship", ""]
+      ]
+    },
+    {
+      "file": "projects",
+      "title": "Featured Projects",
+      "accent": "#0969da",
+      "rows": [
+        ["EuroComply", "Agentic AI that checks a company against EU regulations", "Live"],
+        ["GDPR · AI Act · NIS2 · DORA · CSRD", "LangGraph multi-agent · FastAPI · React · ChromaDB", ""],
+        ["Portfolio", "portfolio-tau-opal-46.vercel.app", ""]
+      ]
+    },
+    {
+      "file": "background",
+      "title": "Experience & Education",
+      "accent": "#1a7f37",
+      "rows": [
+        ["John Deere", "Data Scientist · statistics, machine learning and AI", "5 yrs"],
+        ["MSc AI & Data Analytics", "University of Turku, Finland", "Ongoing"],
+        ["MSc Applied Statistics", "", ""],
+        ["BSc Computer Science", "", ""]
+      ]
+    },
+    {
+      "file": "focus",
+      "title": "Current Focus",
+      "accent": "#cf222e",
+      "rows": [
+        ["LLMs & inference", "NLP, LLM inference and GPU optimization", ""],
+        ["Generative AI & RAG", "Retrieval systems and knowledge graphs", ""],
+        ["Multilingual AI research", "Reproducing and experimenting with research papers", ""],
+        ["ML & statistical modeling", "", ""]
+      ]
+    },
+    {
+      "file": "stack",
+      "title": "Tech Stack",
+      "accent": "#8250df",
+      "rows": [
+        ["Languages", "Python · R · SQL · PySpark", ""],
+        ["Machine learning", "PyTorch · Scikit-learn · XGBoost · LightGBM · CatBoost", ""],
+        ["AI & NLP", "LLMs · RAG · LangChain · LangGraph · Hugging Face · VLMs", ""],
+        ["Data & infra", "Databricks · MLflow · Qdrant · Neo4j · AWS · Docker · K8s", ""]
+      ]
+    }
+  ]
+}

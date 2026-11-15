@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="410" height="270" viewBox="0 0 410 270" role="img" aria-label="Tech Stack">
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}
+.bg{fill:#fff;stroke:#d0d7de} .t{fill:#1f2328} .m{fill:#59636e}
+@media(prefers-color-scheme:dark){.bg{fill:#0d1117;stroke:#30363d} .t{fill:#e6edf3} .m{fill:#9198a1}}
+</style>
+<rect class="bg" x=".5" y=".5" width="409" height="269" rx="10"/>
+<rect x="24" y="26" width="4" height="20" rx="2" fill="#8250df"/>
+<text class="t" x="38" y="42" font-size="17" font-weight="700">Tech Stack</text>
+<text class="m" x="386" y="42" font-size="12" text-anchor="end"></text>
+<text class="t" x="24" y="84" font-size="14" font-weight="600">Languages</text>
+<text class="m" x="24" y="102" font-size="12">Python · R · SQL · PySpark</text>
+<text class="t" x="24" y="132" font-size="14" font-weight="600">Machine learning</text>
+<text class="m" x="24" y="150" font-size="12">PyTorch · Scikit-learn · XGBoost · LightGBM · CatBoost</text>
+<text class="t" x="24" y="180" font-size="14" font-weight="600">AI &amp; NLP</text>
+<text class="m" x="24" y="198" font-size="12">LLMs · RAG · LangChain · LangGraph · Hugging Face · VLMs</text>
+<text class="t" x="24" y="228" font-size="14" font-weight="600">Data &amp; infra</text>
+<text class="m" x="24" y="246" font-size="12">Databricks · MLflow · Qdrant · Neo4j · AWS · Docker · K8s</text>
+</svg>

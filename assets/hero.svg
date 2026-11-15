@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="190" viewBox="0 0 830 190" role="img" aria-label="Roshan Kumar">
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}
+.bg{fill:#fff;stroke:#d0d7de} .t{fill:#1f2328} .m{fill:#59636e}
+@media(prefers-color-scheme:dark){.bg{fill:#0d1117;stroke:#30363d} .t{fill:#e6edf3} .m{fill:#9198a1}}
+</style>
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#8250df"/><stop offset=".5" stop-color="#0969da"/><stop offset="1" stop-color="#1a7f37"/></linearGradient></defs>
+<rect class="bg" x=".5" y=".5" width="829" height="189" rx="10"/>
+<rect x="40" y="150" width="750" height="4" rx="2" fill="url(#g)" opacity=".25"/>
+<rect x="40" y="150" width="120" height="4" rx="2" fill="url(#g)"><animate attributeName="x" values="40;670;40" dur="8s" repeatCount="indefinite"/></rect>
+<text class="t" x="40" y="72" font-size="40" font-weight="800">Roshan Kumar</text>
+<text class="t" x="40" y="104" font-size="18">Data Scientist · ML Engineer · LLM inference, RAG and statistical modeling</text>
+<text class="m" x="40" y="130" font-size="15">5 years at John Deere · MSc AI &amp; Data Analytics, University of Turku, Finland</text>
+</svg>
