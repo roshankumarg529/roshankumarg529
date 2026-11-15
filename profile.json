@@ -11,6 +11,7 @@
       "rows": [
         ["Startup Go", "Deal intelligence for VCs in ocean and deep-tech startups", "Top 3"],
         ["Junction x Turku 2026", "FastAPI · React · scraping and LLM agent pipeline", "Top 3"],
+        ["Since AI Hackathon 2026", "Industry AI system for a partner · agents, ML, full stack", "NDA"],
         ["ML competitions", "Analytics Vidhya · MachineHack · DPhi · Dockship", "Top 10"]
       ]
     },
@@ -20,8 +21,7 @@
       "accent": "#0969da",
       "rows": [
         ["EuroComply", "Agentic AI that checks a company against EU regulations", "Live"],
-        ["GDPR · AI Act · NIS2 · DORA · CSRD", "LangGraph multi-agent · FastAPI · React · ChromaDB", ""],
-        ["", "portfolio-tau-opal-46.vercel.app", ""]
+        ["GDPR · AI Act · NIS2 · DORA · CSRD", "LangGraph multi-agent · FastAPI · React · ChromaDB", ""]
       ]
     },
     {
