@@ -34,6 +34,7 @@ My work sits at the intersection of **statistical modeling, machine learning, an
 
 
 ### Open source contributions
+#### Merged PR's
 - [llama.cpp](https://github.com/ggml-org/llama.cpp)
   - https://github.com/ggml-org/llama.cpp/pull/32093
 ### 🛠️ Tech Stack
