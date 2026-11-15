@@ -13,7 +13,6 @@ text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,san
 <text x="386" y="84" font-size="11" font-weight="700" text-anchor="end" fill="#bf8700">TOP 3</text>
 <text class="t" x="24" y="132" font-size="14" font-weight="600">Junction x Turku 2026</text>
 <text class="m" x="24" y="150" font-size="12">FastAPI · React · scraping and LLM agent pipeline</text>
-<text x="386" y="132" font-size="11" font-weight="700" text-anchor="end" fill="#bf8700">TOP 3</text>
 <text class="t" x="24" y="180" font-size="14" font-weight="600">Since AI Hackathon 2026</text>
 <text class="m" x="24" y="198" font-size="12">Industry AI system for a partner · agents, ML, full stack</text>
 <text x="386" y="180" font-size="11" font-weight="700" text-anchor="end" fill="#bf8700">NDA</text>

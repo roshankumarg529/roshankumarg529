@@ -10,7 +10,7 @@
       "accent": "#bf8700",
       "rows": [
         ["Startup Go", "Deal intelligence for VCs in ocean and deep-tech startups", "Top 3"],
-        ["Junction x Turku 2026", "FastAPI · React · scraping and LLM agent pipeline", "Top 3"],
+        ["Junction x Turku 2026", "FastAPI · React · scraping and LLM agent pipeline", ""],
         ["Since AI Hackathon 2026", "Industry AI system for a partner · agents, ML, full stack", "NDA"],
         ["ML competitions", "Analytics Vidhya · MachineHack · DPhi · Dockship", "Top 10"]
       ]
