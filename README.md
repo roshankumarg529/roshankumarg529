@@ -32,6 +32,10 @@ My work sits at the intersection of **statistical modeling, machine learning, an
 -  **Multilingual AI & AI Research**
 -  Reproducing and experimenting with **research papers**
 
+
+### Open source contributions
+- [llama.cpp](https://github.com/ggml-org/llama.cpp)
+  - https://github.com/ggml-org/llama.cpp/pull/32093
 ### 🛠️ Tech Stack
 
 **Languages & Data**
