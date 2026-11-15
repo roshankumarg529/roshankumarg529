@@ -10,8 +10,8 @@
       "accent": "#bf8700",
       "rows": [
         ["Startup Go", "Deal intelligence for VCs in ocean and deep-tech startups", "Top 3"],
-        ["Junction x Turku 2026", "FastAPI · React · scraping and LLM agent pipeline", ""],
-        ["ML competitions", "Analytics Vidhya · MachineHack · DPhi · Dockship", ""]
+        ["Junction x Turku 2026", "FastAPI · React · scraping and LLM agent pipeline", "Top 3"],
+        ["ML competitions", "Analytics Vidhya · MachineHack · DPhi · Dockship", "Top 10"]
       ]
     },
     {
@@ -21,7 +21,7 @@
       "rows": [
         ["EuroComply", "Agentic AI that checks a company against EU regulations", "Live"],
         ["GDPR · AI Act · NIS2 · DORA · CSRD", "LangGraph multi-agent · FastAPI · React · ChromaDB", ""],
-        ["Portfolio", "portfolio-tau-opal-46.vercel.app", ""]
+        ["", "portfolio-tau-opal-46.vercel.app", ""]
       ]
     },
     {
@@ -31,8 +31,8 @@
       "rows": [
         ["John Deere", "Data Scientist · statistics, machine learning and AI", "5 yrs"],
         ["MSc AI & Data Analytics", "University of Turku, Finland", "Ongoing"],
-        ["MSc Applied Statistics", "", ""],
-        ["BSc Computer Science", "", ""]
+        ["MSc Applied Statistics", "Mangalore University", "2021"],
+        ["BSc Computer Science", "", "2019"]
       ]
     },
     {
