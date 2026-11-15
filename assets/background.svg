@@ -15,7 +15,9 @@ text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,san
 <text class="m" x="24" y="150" font-size="12">University of Turku, Finland</text>
 <text x="386" y="132" font-size="11" font-weight="700" text-anchor="end" fill="#1a7f37">ONGOING</text>
 <text class="t" x="24" y="180" font-size="14" font-weight="600">MSc Applied Statistics</text>
-<text class="m" x="24" y="198" font-size="12"></text>
+<text class="m" x="24" y="198" font-size="12">Mangalore University</text>
+<text x="386" y="180" font-size="11" font-weight="700" text-anchor="end" fill="#1a7f37">2021</text>
 <text class="t" x="24" y="228" font-size="14" font-weight="600">BSc Computer Science</text>
 <text class="m" x="24" y="246" font-size="12"></text>
+<text x="386" y="228" font-size="11" font-weight="700" text-anchor="end" fill="#1a7f37">2019</text>
 </svg>

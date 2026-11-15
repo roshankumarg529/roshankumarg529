@@ -13,6 +13,6 @@ text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,san
 <text x="386" y="84" font-size="11" font-weight="700" text-anchor="end" fill="#0969da">LIVE</text>
 <text class="t" x="24" y="132" font-size="14" font-weight="600">GDPR · AI Act · NIS2 · DORA · CSRD</text>
 <text class="m" x="24" y="150" font-size="12">LangGraph multi-agent · FastAPI · React · ChromaDB</text>
-<text class="t" x="24" y="180" font-size="14" font-weight="600">Portfolio</text>
+<text class="t" x="24" y="180" font-size="14" font-weight="600"></text>
 <text class="m" x="24" y="198" font-size="12">portfolio-tau-opal-46.vercel.app</text>
 </svg>
